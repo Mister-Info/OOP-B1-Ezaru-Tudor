@@ -3,5 +3,11 @@
 *.layout
 *.o
 *.exe
+*.vcxproj
+*.filters
+*.user
+*.sln
 obj/
 bin/
+x64/Debug
+
