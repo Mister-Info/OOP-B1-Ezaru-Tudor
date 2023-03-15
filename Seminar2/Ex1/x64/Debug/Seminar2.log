@@ -1,5 +1,0 @@
-﻿D:\Visual Studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (main.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  NumberList.cpp
-  main.cpp
-  Generating Code...
-  Seminar2.vcxproj -> C:\Users\lenovo\Desktop\OOP-B1-Ezaru-Tudor\Seminar2\x64\Debug\ex1.exe
