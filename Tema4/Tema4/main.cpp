@@ -13,15 +13,9 @@ int main()
 	l.Print();
 
 	
-	Sort q(4, 4, 5, 11, 7);
-	q.InsertSort(false);
-	q.Print();
-	q.InsertSort(true);
-	q.Print();
-	q.BubbleSort(false);
-	q.Print();
-	q.BubbleSort(true);
-	q.Print();
+	
+	
+	
 	
 	
 
